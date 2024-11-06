@@ -1,4 +1,4 @@
 # hello.py
 print('hello Git!')
 print('updated')
-print('created new design here')
+print('fixed small error here')
