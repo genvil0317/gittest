@@ -10,3 +10,5 @@ print('fixed small error here')
 =======
 print('new design again')
 >>>>>>> new-design
+
+print('updated nov 7')
